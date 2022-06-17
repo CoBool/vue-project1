@@ -1,3 +1,3 @@
 # vue-project1
 
-Init
+플러그인 설치 반응 확인..
